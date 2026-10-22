@@ -1,0 +1,206 @@
+{
+  "Metadata": {
+    "title": "Multivate | Tech skills and German for your future in Germany",
+    "description": "German courses from A1, practical tech skills, mentors who already live in Germany, and Kazzy, an AI assistant for every question along the way. All priced in Naira."
+  },
+  "Nav": {
+    "home": "Multivate home",
+    "courses": "Courses",
+    "mentors": "Mentors",
+    "teach": "Teach",
+    "login": "Log in",
+    "getStarted": "Get started",
+    "menu": "Menu",
+    "language": "Language"
+  },
+  "Hero": {
+    "eyebrow": "Lagos to Berlin, one lesson at a time",
+    "title": "Tech skills and German fluency for <em>your future in Germany.</em>",
+    "body": "German courses from A1, practical tech skills, mentors who already live in Germany, and Kazzy, an AI assistant for every question along the way. All priced in Naira.",
+    "primaryCta": "Get started",
+    "secondaryCta": "Browse courses",
+    "proofPayment": "Pay in Naira, by card or bank transfer",
+    "proofLearners": "[placeholder] learners enrolled",
+    "photoAlt": "Three young learners working together on a laptop"
+  },
+  "Problem": {
+    "eyebrow": "The problem",
+    "title": "Preparing for Germany shouldn't feel like guesswork.",
+    "items": {
+      "scattered": {
+        "title": "Scattered courses",
+        "body": "German on one app, coding on another, visa tips in a WhatsApp group. Nothing connects, and nothing tells you what to learn next."
+      },
+      "guidance": {
+        "title": "No honest guidance",
+        "body": "Agents with something to sell and forums full of outdated posts. It is hard to find someone who has actually made the move and will tell you how it went."
+      },
+      "path": {
+        "title": "An unclear path",
+        "body": "Which German level do you need for a visa, a job or a university place, and in what order? Without a plan, months slip by."
+      }
+    }
+  },
+  "Solution": {
+    "eyebrow": "The solution",
+    "title": "The language, the skills and the people who have done it, in one place.",
+    "items": {
+      "courses": {
+        "title": "Courses",
+        "body": "German from A1 to A2 and practical tech skills, structured as one path."
+      },
+      "mentors": {
+        "title": "Mentors",
+        "body": "Nigerians already living in Germany who answer your questions directly."
+      },
+      "kazzy": {
+        "title": "Kazzy",
+        "body": "An AI assistant for questions about Germany, the language, study and careers."
+      },
+      "certificates": {
+        "title": "Certificates",
+        "body": "A certificate for every course you complete, to show your progress."
+      }
+    },
+    "photoAlt": "A learner taking notes beside a laptop showing a weekly course schedule"
+  },
+  "Courses": {
+    "eyebrow": "Featured courses",
+    "title": "Start with German. Build from there.",
+    "viewAll": "View all courses",
+    "viewCourse": "View course",
+    "subject": "German",
+    "lessons": "{count, plural, one {# lesson} other {# lessons}}",
+    "items": {
+      "a1Foundations": "German A1 Foundations",
+      "absoluteBeginners": "German for Absolute Beginners",
+      "pronounsFamily": "Pronouns, Family and Greetings",
+      "a2Practical": "A2 Practical German"
+    }
+  },
+  "Mentors": {
+    "eyebrow": "Mentors",
+    "title": "Advice from people who already made the move.",
+    "body": "Our mentors are Nigerians living and working in Germany. Message them about jobs, universities, housing or the first winter.",
+    "message": "Message",
+    "roles": {
+      "softwareEngineer": "Software engineer",
+      "nurse": "Registered nurse",
+      "mscStudentDresden": "MSc student, TU Dresden",
+      "dataAnalyst": "Data analyst"
+    },
+    "empty": {
+      "title": "Mentors in Germany are joining soon.",
+      "body": "We'll email you when the first mentors open their calendars.",
+      "cta": "Notify me"
+    }
+  },
+  "HowItWorks": {
+    "eyebrow": "How it works",
+    "title": "Four steps from sign-up to certificate.",
+    "steps": {
+      "signUp": {
+        "title": "Sign up",
+        "body": "Create a free account with your email or phone number."
+      },
+      "choose": {
+        "title": "Choose a course",
+        "body": "Pick a German level or a tech track that fits your plan."
+      },
+      "learn": {
+        "title": "Learn",
+        "body": "Study at your own pace. Ask Kazzy or message a mentor when you get stuck."
+      },
+      "certified": {
+        "title": "Get certified",
+        "body": "Finish the course and download your certificate."
+      }
+    }
+  },
+  "Teach": {
+    "eyebrow": "Teach on Multivate",
+    "title": "Teach what you know to people who are ready to move.",
+    "body": "German teachers, engineers and professionals in Germany: share your experience with learners preparing to follow.",
+    "benefits": {
+      "earn": "Earn in Naira for every learner who enrols",
+      "handled": "We handle payments, hosting and certificates",
+      "format": "Teach German or tech, recorded or live",
+      "reach": "Reach learners who are serious about Germany"
+    },
+    "cta": "Apply as instructor",
+    "photoAlt": "An instructor pointing to a flowchart on a classroom screen while learners watch"
+  },
+  "Kazzy": {
+    "eyebrow": "Meet Kazzy",
+    "title": "Ask Kazzy anything about Germany.",
+    "body": "Kazzy is our AI assistant. It answers questions about life in Germany, the language, study paths and careers, day or night, and points you to the right course or mentor.",
+    "name": "Kazzy",
+    "role": "AI assistant",
+    "tryAsking": "Try asking",
+    "questions": {
+      "germanToStudy": "Do I need German to study in Germany?",
+      "a1ToA2": "How long does it take to go from A1 to A2?",
+      "blockedAccount": "What is a blocked account and do I need one?"
+    },
+    "placeholder": "Ask about visas, universities, German…",
+    "ask": "Ask Kazzy",
+    "disclaimer": "Kazzy can make mistakes. Check official sources before visa decisions."
+  },
+  "Faq": {
+    "eyebrow": "FAQ",
+    "title": "Questions, answered.",
+    "more": "Something else? <kazzy>Ask Kazzy</kazzy> or <contact>write to us</contact>.",
+    "items": {
+      "cost": {
+        "q": "How much do courses cost?",
+        "a": "Each course has a one-time price in Naira, shown on the course page. You keep access to the course after you pay. The first lesson of every German course is free to try."
+      },
+      "transfer": {
+        "q": "Can I pay by bank transfer?",
+        "a": "Yes. You can pay by card or by bank transfer to our Nigerian account. Your course unlocks as soon as the transfer is confirmed."
+      },
+      "certificate": {
+        "q": "Do I get a certificate?",
+        "a": "You receive a Multivate certificate of completion for every course you finish. It shows your progress but does not replace official exams such as Goethe or telc, which we help you prepare for."
+      },
+      "levels": {
+        "q": "Which levels do you offer?",
+        "a": "German A1 and A2 today, plus tech skills courses. B1 is in development."
+      },
+      "language": {
+        "q": "What language are the courses taught in?",
+        "a": "Lessons are explained in English, with German used more and more as you progress."
+      },
+      "mentors": {
+        "q": "How do mentors work?",
+        "a": "Mentors are people from Nigeria who live in Germany. Once you are enrolled, you can message them through Multivate about study, work and daily life."
+      }
+    }
+  },
+  "FinalCta": {
+    "title": "Your move to Germany starts with <em>one lesson.</em>",
+    "body": "Create a free account, try the first German lesson, then decide.",
+    "cta": "Get started"
+  },
+  "Footer": {
+    "logoAlt": "Multivate Technological Services and Consultancy Limited",
+    "learn": "Learn",
+    "germanCourses": "German courses",
+    "techSkills": "Tech skills",
+    "kazzy": "Kazzy",
+    "community": "Community",
+    "mentors": "Mentors",
+    "teach": "Teach on Multivate",
+    "about": "About us",
+    "contact": "Contact",
+    "phone": "+234 [placeholder]",
+    "location": "Lagos, Nigeria",
+    "social": "Social media",
+    "copyright": "© 2026 Multivate Technological Services & Consultancy Limited",
+    "privacy": "Privacy",
+    "terms": "Terms"
+  },
+  "Fab": {
+    "label": "Ask Kazzy"
+  }
+}

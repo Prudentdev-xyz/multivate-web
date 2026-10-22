@@ -1,0 +1,206 @@
+{
+  "Metadata": {
+    "title": "Multivate | Compétences tech et allemand pour votre avenir en Allemagne",
+    "description": "Des cours d'allemand dès A1, des compétences tech concrètes, des mentors qui vivent déjà en Allemagne, et Kazzy, un assistant IA pour chaque question en chemin. Le tout payable en naira."
+  },
+  "Nav": {
+    "home": "Accueil Multivate",
+    "courses": "Cours",
+    "mentors": "Mentors",
+    "teach": "Enseigner",
+    "login": "Se connecter",
+    "getStarted": "Commencer",
+    "menu": "Menu",
+    "language": "Langue"
+  },
+  "Hero": {
+    "eyebrow": "De Lagos à Berlin, une leçon à la fois",
+    "title": "Compétences tech et allemand courant pour <em>votre avenir en Allemagne.</em>",
+    "body": "Des cours d'allemand dès A1, des compétences tech concrètes, des mentors qui vivent déjà en Allemagne, et Kazzy, un assistant IA pour chaque question en chemin. Le tout payable en naira.",
+    "primaryCta": "Commencer",
+    "secondaryCta": "Voir les cours",
+    "proofPayment": "Paiement en naira, par carte ou virement",
+    "proofLearners": "[placeholder] apprenants inscrits",
+    "photoAlt": "Trois jeunes apprenants travaillent ensemble sur un ordinateur portable"
+  },
+  "Problem": {
+    "eyebrow": "Le problème",
+    "title": "Se préparer pour l'Allemagne ne devrait pas être un pari.",
+    "items": {
+      "scattered": {
+        "title": "Des cours éparpillés",
+        "body": "L'allemand sur une appli, le code sur une autre, les conseils visa dans un groupe WhatsApp. Rien n'est relié, et rien ne vous dit quoi apprendre ensuite."
+      },
+      "guidance": {
+        "title": "Pas de conseils honnêtes",
+        "body": "Des agents qui ont quelque chose à vendre et des forums pleins de messages dépassés. Difficile de trouver quelqu'un qui a vraiment franchi le pas et qui vous dira comment ça s'est passé."
+      },
+      "path": {
+        "title": "Un parcours flou",
+        "body": "Quel niveau d'allemand faut-il pour un visa, un emploi ou une place à l'université, et dans quel ordre ? Sans plan, les mois passent."
+      }
+    }
+  },
+  "Solution": {
+    "eyebrow": "La solution",
+    "title": "La langue, les compétences et les personnes qui l'ont fait, au même endroit.",
+    "items": {
+      "courses": {
+        "title": "Cours",
+        "body": "L'allemand de A1 à A2 et des compétences tech concrètes, pensés comme un seul parcours."
+      },
+      "mentors": {
+        "title": "Mentors",
+        "body": "Des Nigérians qui vivent déjà en Allemagne et répondent directement à vos questions."
+      },
+      "kazzy": {
+        "title": "Kazzy",
+        "body": "Un assistant IA pour vos questions sur l'Allemagne, la langue, les études et la carrière."
+      },
+      "certificates": {
+        "title": "Certificats",
+        "body": "Un certificat pour chaque cours terminé, pour montrer vos progrès."
+      }
+    },
+    "photoAlt": "Un apprenant prend des notes à côté d'un ordinateur portable affichant un planning de cours hebdomadaire"
+  },
+  "Courses": {
+    "eyebrow": "Cours à la une",
+    "title": "Commencez par l'allemand. Construisez ensuite.",
+    "viewAll": "Voir tous les cours",
+    "viewCourse": "Voir le cours",
+    "subject": "Allemand",
+    "lessons": "{count, plural, one {# leçon} other {# leçons}}",
+    "items": {
+      "a1Foundations": "Allemand A1 : les bases",
+      "absoluteBeginners": "L'allemand pour grands débutants",
+      "pronounsFamily": "Pronoms, famille et salutations",
+      "a2Practical": "Allemand pratique A2"
+    }
+  },
+  "Mentors": {
+    "eyebrow": "Mentors",
+    "title": "Les conseils de ceux qui ont déjà franchi le pas.",
+    "body": "Nos mentors sont des Nigérians qui vivent et travaillent en Allemagne. Écrivez-leur au sujet de l'emploi, des universités, du logement ou du premier hiver.",
+    "message": "Écrire",
+    "roles": {
+      "softwareEngineer": "Ingénieur·e logiciel",
+      "nurse": "Infirmier·ère diplômé·e",
+      "mscStudentDresden": "Étudiant·e en master, TU Dresden",
+      "dataAnalyst": "Analyste de données"
+    },
+    "empty": {
+      "title": "Des mentors en Allemagne arrivent bientôt.",
+      "body": "Nous vous enverrons un e-mail dès que les premiers mentors ouvriront leur agenda.",
+      "cta": "Me prévenir"
+    }
+  },
+  "HowItWorks": {
+    "eyebrow": "Comment ça marche",
+    "title": "Quatre étapes, de l'inscription au certificat.",
+    "steps": {
+      "signUp": {
+        "title": "Inscrivez-vous",
+        "body": "Créez un compte gratuit avec votre e-mail ou votre numéro de téléphone."
+      },
+      "choose": {
+        "title": "Choisissez un cours",
+        "body": "Choisissez un niveau d'allemand ou un parcours tech adapté à votre projet."
+      },
+      "learn": {
+        "title": "Apprenez",
+        "body": "Avancez à votre rythme. Demandez à Kazzy ou écrivez à un mentor quand vous bloquez."
+      },
+      "certified": {
+        "title": "Obtenez votre certificat",
+        "body": "Terminez le cours et téléchargez votre certificat."
+      }
+    }
+  },
+  "Teach": {
+    "eyebrow": "Enseigner sur Multivate",
+    "title": "Transmettez votre savoir à ceux qui sont prêts à partir.",
+    "body": "Professeurs d'allemand, ingénieurs et professionnels en Allemagne : partagez votre expérience avec des apprenants qui se préparent à suivre votre chemin.",
+    "benefits": {
+      "earn": "Gagnez des naira pour chaque apprenant inscrit",
+      "handled": "Nous gérons les paiements, l'hébergement et les certificats",
+      "format": "Enseignez l'allemand ou la tech, en différé ou en direct",
+      "reach": "Touchez des apprenants vraiment motivés par l'Allemagne"
+    },
+    "cta": "Devenir formateur",
+    "photoAlt": "Un formateur montre un organigramme sur un écran de classe devant des apprenants"
+  },
+  "Kazzy": {
+    "eyebrow": "Voici Kazzy",
+    "title": "Posez à Kazzy toutes vos questions sur l'Allemagne.",
+    "body": "Kazzy est notre assistant IA. Il répond à vos questions sur la vie en Allemagne, la langue, les études et la carrière, de jour comme de nuit, et vous oriente vers le bon cours ou le bon mentor.",
+    "name": "Kazzy",
+    "role": "Assistant IA",
+    "tryAsking": "Essayez",
+    "questions": {
+      "germanToStudy": "Faut-il parler allemand pour étudier en Allemagne ?",
+      "a1ToA2": "Combien de temps faut-il pour passer de A1 à A2 ?",
+      "blockedAccount": "Qu'est-ce qu'un compte bloqué et en ai-je besoin ?"
+    },
+    "placeholder": "Visas, universités, allemand…",
+    "ask": "Demander à Kazzy",
+    "disclaimer": "Kazzy peut se tromper. Vérifiez les sources officielles avant toute décision de visa."
+  },
+  "Faq": {
+    "eyebrow": "FAQ",
+    "title": "Vos questions, nos réponses.",
+    "more": "Autre chose ? <kazzy>Demandez à Kazzy</kazzy> ou <contact>écrivez-nous</contact>.",
+    "items": {
+      "cost": {
+        "q": "Combien coûtent les cours ?",
+        "a": "Chaque cours a un prix unique en naira, indiqué sur sa page. Vous gardez l'accès au cours après paiement. La première leçon de chaque cours d'allemand est gratuite."
+      },
+      "transfer": {
+        "q": "Puis-je payer par virement ?",
+        "a": "Oui. Vous pouvez payer par carte ou par virement sur notre compte nigérian. Votre cours est débloqué dès que le virement est confirmé."
+      },
+      "certificate": {
+        "q": "Est-ce que je reçois un certificat ?",
+        "a": "Vous recevez un certificat Multivate pour chaque cours terminé. Il atteste de vos progrès mais ne remplace pas les examens officiels comme le Goethe ou le telc, auxquels nous vous préparons."
+      },
+      "levels": {
+        "q": "Quels niveaux proposez-vous ?",
+        "a": "L'allemand A1 et A2 pour l'instant, ainsi que des cours tech. Le B1 est en préparation."
+      },
+      "language": {
+        "q": "Dans quelle langue les cours sont-ils donnés ?",
+        "a": "Les leçons sont expliquées en anglais, avec de plus en plus d'allemand au fil de votre progression."
+      },
+      "mentors": {
+        "q": "Comment fonctionnent les mentors ?",
+        "a": "Les mentors sont des personnes originaires du Nigeria qui vivent en Allemagne. Une fois inscrit, vous pouvez leur écrire via Multivate au sujet des études, du travail et de la vie quotidienne."
+      }
+    }
+  },
+  "FinalCta": {
+    "title": "Votre départ pour l'Allemagne commence par <em>une leçon.</em>",
+    "body": "Créez un compte gratuit, essayez la première leçon d'allemand, puis décidez.",
+    "cta": "Commencer"
+  },
+  "Footer": {
+    "logoAlt": "Multivate Technological Services and Consultancy Limited",
+    "learn": "Apprendre",
+    "germanCourses": "Cours d'allemand",
+    "techSkills": "Compétences tech",
+    "kazzy": "Kazzy",
+    "community": "Communauté",
+    "mentors": "Mentors",
+    "teach": "Enseigner sur Multivate",
+    "about": "À propos",
+    "contact": "Contact",
+    "phone": "+234 [placeholder]",
+    "location": "Lagos, Nigeria",
+    "social": "Réseaux sociaux",
+    "copyright": "© 2026 Multivate Technological Services & Consultancy Limited",
+    "privacy": "Confidentialité",
+    "terms": "Conditions"
+  },
+  "Fab": {
+    "label": "Demander à Kazzy"
+  }
+}

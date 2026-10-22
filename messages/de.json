@@ -1,0 +1,206 @@
+{
+  "Metadata": {
+    "title": "Multivate | Tech-Skills und Deutsch für deine Zukunft in Deutschland",
+    "description": "Deutschkurse ab A1, praktische Tech-Skills, Mentoren, die schon in Deutschland leben, und Kazzy, ein KI-Assistent für jede Frage auf dem Weg. Alles in Naira bezahlt."
+  },
+  "Nav": {
+    "home": "Multivate Startseite",
+    "courses": "Kurse",
+    "mentors": "Mentoren",
+    "teach": "Unterrichten",
+    "login": "Anmelden",
+    "getStarted": "Loslegen",
+    "menu": "Menü",
+    "language": "Sprache"
+  },
+  "Hero": {
+    "eyebrow": "Von Lagos nach Berlin, Lektion für Lektion",
+    "title": "Tech-Skills und fließendes Deutsch für <em>deine Zukunft in Deutschland.</em>",
+    "body": "Deutschkurse ab A1, praktische Tech-Skills, Mentoren, die schon in Deutschland leben, und Kazzy, ein KI-Assistent für jede Frage auf dem Weg. Alles in Naira bezahlt.",
+    "primaryCta": "Loslegen",
+    "secondaryCta": "Kurse ansehen",
+    "proofPayment": "Zahlung in Naira, per Karte oder Überweisung",
+    "proofLearners": "[placeholder] eingeschriebene Lernende",
+    "photoAlt": "Drei junge Lernende arbeiten gemeinsam an einem Laptop"
+  },
+  "Problem": {
+    "eyebrow": "Das Problem",
+    "title": "Die Vorbereitung auf Deutschland sollte kein Ratespiel sein.",
+    "items": {
+      "scattered": {
+        "title": "Verstreute Kurse",
+        "body": "Deutsch in einer App, Programmieren in einer anderen, Visatipps in einer WhatsApp-Gruppe. Nichts hängt zusammen, und nichts sagt dir, was du als Nächstes lernen solltest."
+      },
+      "guidance": {
+        "title": "Keine ehrliche Beratung",
+        "body": "Agenturen, die etwas verkaufen wollen, und Foren voller veralteter Beiträge. Es ist schwer, jemanden zu finden, der den Schritt wirklich gemacht hat und offen erzählt, wie es war."
+      },
+      "path": {
+        "title": "Ein unklarer Weg",
+        "body": "Welches Deutschniveau brauchst du für ein Visum, einen Job oder einen Studienplatz, und in welcher Reihenfolge? Ohne Plan vergehen Monate."
+      }
+    }
+  },
+  "Solution": {
+    "eyebrow": "Die Lösung",
+    "title": "Die Sprache, die Skills und die Menschen, die es geschafft haben, an einem Ort.",
+    "items": {
+      "courses": {
+        "title": "Kurse",
+        "body": "Deutsch von A1 bis A2 und praktische Tech-Skills, aufgebaut als ein Weg."
+      },
+      "mentors": {
+        "title": "Mentoren",
+        "body": "Nigerianer, die schon in Deutschland leben und deine Fragen direkt beantworten."
+      },
+      "kazzy": {
+        "title": "Kazzy",
+        "body": "Ein KI-Assistent für Fragen zu Deutschland, zur Sprache, zum Studium und zur Karriere."
+      },
+      "certificates": {
+        "title": "Zertifikate",
+        "body": "Ein Zertifikat für jeden abgeschlossenen Kurs, das deinen Fortschritt zeigt."
+      }
+    },
+    "photoAlt": "Eine lernende Person macht sich Notizen neben einem Laptop mit einem Wochenplan für Kurse"
+  },
+  "Courses": {
+    "eyebrow": "Ausgewählte Kurse",
+    "title": "Fang mit Deutsch an. Bau darauf auf.",
+    "viewAll": "Alle Kurse ansehen",
+    "viewCourse": "Zum Kurs",
+    "subject": "Deutsch",
+    "lessons": "{count, plural, one {# Lektion} other {# Lektionen}}",
+    "items": {
+      "a1Foundations": "Deutsch A1 Grundlagen",
+      "absoluteBeginners": "Deutsch für absolute Anfänger",
+      "pronounsFamily": "Pronomen, Familie und Begrüßungen",
+      "a2Practical": "A2 Deutsch für den Alltag"
+    }
+  },
+  "Mentors": {
+    "eyebrow": "Mentoren",
+    "title": "Rat von Menschen, die den Schritt schon gemacht haben.",
+    "body": "Unsere Mentoren sind Nigerianer, die in Deutschland leben und arbeiten. Schreib ihnen zu Jobs, Universitäten, Wohnungssuche oder dem ersten Winter.",
+    "message": "Nachricht",
+    "roles": {
+      "softwareEngineer": "Software-Engineer",
+      "nurse": "Pflegefachkraft",
+      "mscStudentDresden": "MSc-Studium, TU Dresden",
+      "dataAnalyst": "Data Analyst"
+    },
+    "empty": {
+      "title": "Mentoren in Deutschland kommen bald dazu.",
+      "body": "Wir schicken dir eine E-Mail, sobald die ersten Mentoren ihre Kalender öffnen.",
+      "cta": "Benachrichtige mich"
+    }
+  },
+  "HowItWorks": {
+    "eyebrow": "So funktioniert's",
+    "title": "Vier Schritte von der Anmeldung bis zum Zertifikat.",
+    "steps": {
+      "signUp": {
+        "title": "Registrieren",
+        "body": "Erstelle ein kostenloses Konto mit deiner E-Mail-Adresse oder Telefonnummer."
+      },
+      "choose": {
+        "title": "Kurs wählen",
+        "body": "Wähle ein Deutschniveau oder einen Tech-Kurs, der zu deinem Plan passt."
+      },
+      "learn": {
+        "title": "Lernen",
+        "body": "Lerne in deinem eigenen Tempo. Frag Kazzy oder schreib einem Mentor, wenn du nicht weiterkommst."
+      },
+      "certified": {
+        "title": "Zertifikat erhalten",
+        "body": "Schließ den Kurs ab und lade dein Zertifikat herunter."
+      }
+    }
+  },
+  "Teach": {
+    "eyebrow": "Unterrichte auf Multivate",
+    "title": "Gib dein Wissen an Menschen weiter, die bereit für den Umzug sind.",
+    "body": "Deutschlehrkräfte, Ingenieure und Fachkräfte in Deutschland: Teilt eure Erfahrung mit Lernenden, die euch folgen wollen.",
+    "benefits": {
+      "earn": "Verdiene in Naira an jeder Einschreibung",
+      "handled": "Wir kümmern uns um Zahlungen, Hosting und Zertifikate",
+      "format": "Unterrichte Deutsch oder Tech, aufgezeichnet oder live",
+      "reach": "Erreiche Lernende, die es mit Deutschland ernst meinen"
+    },
+    "cta": "Als Lehrkraft bewerben",
+    "photoAlt": "Eine Lehrkraft zeigt vor Lernenden auf ein Flussdiagramm an einem Bildschirm im Klassenraum"
+  },
+  "Kazzy": {
+    "eyebrow": "Das ist Kazzy",
+    "title": "Frag Kazzy alles über Deutschland.",
+    "body": "Kazzy ist unser KI-Assistent. Kazzy beantwortet Fragen zum Leben in Deutschland, zur Sprache, zu Studienwegen und Karrieren, Tag und Nacht, und zeigt dir den passenden Kurs oder Mentor.",
+    "name": "Kazzy",
+    "role": "KI-Assistent",
+    "tryAsking": "Frag zum Beispiel",
+    "questions": {
+      "germanToStudy": "Brauche ich Deutsch, um in Deutschland zu studieren?",
+      "a1ToA2": "Wie lange dauert es von A1 bis A2?",
+      "blockedAccount": "Was ist ein Sperrkonto und brauche ich eins?"
+    },
+    "placeholder": "Frag nach Visa, Unis, Deutsch…",
+    "ask": "Kazzy fragen",
+    "disclaimer": "Kazzy kann Fehler machen. Prüfe offizielle Quellen, bevor du Visa-Entscheidungen triffst."
+  },
+  "Faq": {
+    "eyebrow": "FAQ",
+    "title": "Fragen und Antworten.",
+    "more": "Noch etwas anderes? <kazzy>Frag Kazzy</kazzy> oder <contact>schreib uns</contact>.",
+    "items": {
+      "cost": {
+        "q": "Was kosten die Kurse?",
+        "a": "Jeder Kurs hat einen einmaligen Preis in Naira, der auf der Kursseite steht. Nach der Zahlung behältst du den Zugang zum Kurs. Die erste Lektion jedes Deutschkurses kannst du kostenlos ausprobieren."
+      },
+      "transfer": {
+        "q": "Kann ich per Überweisung bezahlen?",
+        "a": "Ja. Du kannst per Karte oder per Überweisung auf unser nigerianisches Konto bezahlen. Dein Kurs wird freigeschaltet, sobald die Überweisung bestätigt ist."
+      },
+      "certificate": {
+        "q": "Bekomme ich ein Zertifikat?",
+        "a": "Für jeden abgeschlossenen Kurs erhältst du ein Multivate-Abschlusszertifikat. Es zeigt deinen Fortschritt, ersetzt aber keine offiziellen Prüfungen wie Goethe oder telc, auf die wir dich vorbereiten."
+      },
+      "levels": {
+        "q": "Welche Niveaus bietet ihr an?",
+        "a": "Aktuell Deutsch A1 und A2, dazu Tech-Kurse. B1 ist in Arbeit."
+      },
+      "language": {
+        "q": "In welcher Sprache wird unterrichtet?",
+        "a": "Die Lektionen werden auf Englisch erklärt, und je weiter du kommst, desto mehr Deutsch wird verwendet."
+      },
+      "mentors": {
+        "q": "Wie funktionieren die Mentoren?",
+        "a": "Mentoren sind Menschen aus Nigeria, die in Deutschland leben. Sobald du eingeschrieben bist, kannst du ihnen über Multivate zu Studium, Arbeit und Alltag schreiben."
+      }
+    }
+  },
+  "FinalCta": {
+    "title": "Dein Weg nach Deutschland beginnt mit <em>einer Lektion.</em>",
+    "body": "Erstelle ein kostenloses Konto, probier die erste Deutschlektion aus und entscheide dann.",
+    "cta": "Loslegen"
+  },
+  "Footer": {
+    "logoAlt": "Multivate Technological Services and Consultancy Limited",
+    "learn": "Lernen",
+    "germanCourses": "Deutschkurse",
+    "techSkills": "Tech-Skills",
+    "kazzy": "Kazzy",
+    "community": "Community",
+    "mentors": "Mentoren",
+    "teach": "Unterrichte auf Multivate",
+    "about": "Über uns",
+    "contact": "Kontakt",
+    "phone": "+234 [placeholder]",
+    "location": "Lagos, Nigeria",
+    "social": "Soziale Medien",
+    "copyright": "© 2026 Multivate Technological Services & Consultancy Limited",
+    "privacy": "Datenschutz",
+    "terms": "AGB"
+  },
+  "Fab": {
+    "label": "Kazzy fragen"
+  }
+}
